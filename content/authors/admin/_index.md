@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sakeef M. Karim is a SSHRC Postdoctoral Fellow at New York University (as of January 2023) and a CAnD3 Operations Team member. His research lies at the intersection of political sociology, cultural sociology, and the sociology of international migration. Using quantitative and computational tools, his work explores the links between democracy, populism and nationalism in all corners of the modern world and the attachments, dispositions and belief systems of immigrant-origin people.
 {style="text-align: justify;"}
